@@ -1,2 +1,2 @@
 # my-sample-directory
-Please give a descriptionb
+Please give a description
